@@ -1,5 +1,6 @@
+## Live Website
+https://beatrice-spendwise.netlify.app                                                  
 # SpendWise - JavaScript Foundation
-
 A simple budget tracker that asks for name, monthly budget, and expenses, then calculates total, balance, percentage spent, and budget status.
 
 ## Features
